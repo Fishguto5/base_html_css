@@ -1,0 +1,30 @@
+@charset "UFT-8";
+#rainbow{
+    color: rgba(100, 150, 200, 50);
+}
+#formula1{
+    color: red;
+    background-color: whitesmoke;
+}
+#valorant{
+    color: rebeccapurple;
+    background-color: cornsilk;
+}
+#minecraft{
+    color: green;
+    background-color: aquamarine;
+}
+#gta{
+    color: greenyellow;
+    background-color: cadetblue;
+}
+body{
+    background-color: black;
+}
+p{
+    text-align: justify;
+}
+.titulos{
+    color: crimson;
+    background-color: cornflowerblue;
+}

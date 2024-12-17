@@ -1,0 +1,30 @@
+@charset "UFT-8";
+body{
+    background-color: rgb(61, 26, 50);
+}
+h1{
+    color: blue;
+    size: 20px;
+    text-align: left;
+}
+h2{
+    color: coral;
+    size: 15px;
+    text-align: center;
+}
+h3{
+    color:  pink;
+    size: 12px;
+    text-align: center;
+
+}
+p{
+    color: red;
+    size: 10px;
+    text-align: center;
+}
+h4{
+    color:turquoise;
+    size: 11px;
+    text-align: center;
+}
